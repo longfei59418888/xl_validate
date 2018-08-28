@@ -1,0 +1,14 @@
+{
+  "name": "xl_validate",
+  "version": "1.0.1",
+  "description": "各种验证的函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
